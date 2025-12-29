@@ -84,13 +84,12 @@ Model evaluation using appropriate metrics
 Translating data insights into meaningful conclusions
 🚀 Future Scope
 Integrate real-time weather data
-Apply time-series models (LSTM, ARIMA)
+Apply time-series models
 Include additional climatic parameters
 Build interactive dashboards using Power BI or Streamlit
 Deploy models as a web application
 ▶️ How to Run the Project
 Clone the repository
-git clone https://github.com/your-username/rainfall-analysis-ml.git
 Install dependencies
 pip install -r requirements.txt
 Run the Jupyter Notebook
